@@ -1,0 +1,14 @@
+[
+  {
+    "name": "多 Agent 框架选型",
+    "query": "研究 LangGraph、AutoGen、CrewAI 哪个更适合企业级多 Agent 系统"
+  },
+  {
+    "name": "AI 编程 Agent 趋势",
+    "query": "研究 2026 年 AI 编程 Agent 产品趋势和技术路线"
+  },
+  {
+    "name": "RAG 评估方法",
+    "query": "研究 RAG 评估方法的发展脉络，并给出工程落地建议"
+  }
+]
